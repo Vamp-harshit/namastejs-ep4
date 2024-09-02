@@ -35,7 +35,8 @@
 }
 
 .res-card {
-  width: 250px;
+  width: 15em;
+  min-width: 250px;
   margin: 20px;
   transition: transform .5s;
 }
@@ -47,9 +48,9 @@
 
 .res-container {
   flex-wrap: wrap;
-  margin-left: 10%;
-  margin-right: 10%;
-  padding: 10px;
+  justify-content: space-evenly;
+  padding-left: 10%;
+  padding-right: 10%;
   display: flex;
 }
 
