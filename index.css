@@ -40,8 +40,8 @@
     cursor: pointer;
 }
 .res-container{
-        margin-left: 170px;
-        margin-right: 140px;
+        margin-left: 10%;
+        margin-right: 10%;
     padding: 10px;
     display: flex;
     flex-wrap: wrap;

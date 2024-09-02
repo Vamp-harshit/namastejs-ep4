@@ -47,8 +47,8 @@
 
 .res-container {
   flex-wrap: wrap;
-  margin-left: 170px;
-  margin-right: 140px;
+  margin-left: 10%;
+  margin-right: 10%;
   padding: 10px;
   display: flex;
 }
